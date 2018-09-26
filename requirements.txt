@@ -1,0 +1,12 @@
+﻿requests==2.18.4
+Pillow==4.2.1
+azure_common==1.1.8
+config==0.3.9
+flask_cors==3.0.3
+numpy==1.13.1
+djangorestframework==3.6.4
+azure==2.0.0
+Django==1.11.5
+applicationinsights==0.11.1
+nvidia-ml-py3==7.352.0
+
